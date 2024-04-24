@@ -14,14 +14,15 @@
 - 🏅Me encanta el deporte
 - ❤️Siempre estoy dispuesto a aprender o ayudar a los demás.
 ## Tecnologías
--Se usar lenguajes como Python, Java y C++
+-Se usar lenguajes como Python, HTML, Java y C++
 
-<div aling = "center">
-  <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" width= 100>
-  <img src = "https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" width= 200>
-  <img src = "https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width= 200>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,html,cpp,java)](https://skillicons.dev)
 
 ## Contacto
-- Discord: MarcosZamora#2567
-- Correo: luismarcos3113@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) MarcosZamora#2567
+
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) luismarcos3113@gmail.com
+
+## Github
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoszam13&layout=compact&theme=dracula&bg_color=#000000&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=marcoszam13&theme=dracula&count_private=true&show_icons=true&include_all_commits=true"/>
