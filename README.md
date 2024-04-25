@@ -27,5 +27,5 @@
 
 <p align="center">
   <img aling="center" style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoszam13&layout=compact&theme=dracula&bg_color=FDFCFC&title_color=F35252&text_color=191818&icon_color=F94C4C&langs_count=8"/>
-  <img aling="center" style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=marcoszam13&theme=dracula&bg_color=FDFCFC&title_color=F35252&text_color=191818&icon_color=F94C4C&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img aling="center" style="height:100%;width:50%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=marcoszam13&theme=dracula&bg_color=FDFCFC&title_color=F35252&text_color=000000&icon_color=F94C4C&count_private=true&show_icons=true&include_all_commits=true"/>
 </p>
