@@ -7,7 +7,7 @@
 
 ## Sobre mi
 - 👨🏻‍💻Estudiante de segundo año del Tecnologico de Costa Rica
-- 🖐🏻Tengo 19 años
+- 🖐🏻Tengo 20 años
 - 👨🏻‍💻Me encanta programar
 - 🎮Me encanta los videojuegos
 - 🎵Adoro la música
